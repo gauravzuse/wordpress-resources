@@ -40,6 +40,7 @@
 - [**Custom Post Type UI**](https://fr.wordpress.org/plugins/custom-post-type-ui/) --> An admin UI to create custom post types and custom taxonomies.
 - [**Contact Form 7**](http://contactform7.com/) --> A very flexible contact form able to render a basic form and benefit of multiples subplugins (e.g. captchas).
 - [**Regenerate Thumbnails**](https://wordpress.org/plugins/regenerate-thumbnails/) --> Allow you to regenerate all your thumbnails after declaring a new image size.
+- [**Simple History**](https://wordpress.org/plugins/simple-history/) --> Records every action made by your users in the backoffice.
 
 
 ## Misc
