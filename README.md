@@ -36,7 +36,7 @@
 
 
 ## Plugins
-- *Work in progress...*
+- [**Advanced Custom Field**](https://www.advancedcustomfields.com/) :unlock: --> A powerful plugin to create, use and display custom fields.
 
 
 ## Misc
