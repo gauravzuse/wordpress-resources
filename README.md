@@ -38,6 +38,7 @@
 ## Plugins
 - [**Advanced Custom Field**](https://www.advancedcustomfields.com/) :unlock: --> A powerful plugin to create, use and display custom fields.
 - [**Custom Post Type UI**](https://fr.wordpress.org/plugins/custom-post-type-ui/) --> An admin UI to create custom post types and custom taxonomies.
+- [**Contact Form 7**](http://contactform7.com/) --> A very flexible contact form able to render a basic form and benefit of multiples subplugins (e.g. captchas).
 
 
 ## Misc
