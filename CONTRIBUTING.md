@@ -3,6 +3,7 @@
 Please ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure the resource is useful, tested and documented before submitting.
+- Make an individual pull request for each suggestion.
 - Use the following format: `[**RESOURCE**](LINK) --> DESCRIPTION.`.
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
