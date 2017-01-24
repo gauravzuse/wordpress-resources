@@ -16,6 +16,7 @@
 - [**WP Dictionary**](https://premium.wpmudev.org/blog/wordpress-dictionary/) --> Almost every important terminology of WP.
 - [**The WP page lifecycle**](https://tommcfarlin.com/wordpress-page-lifecycle/) --> A must-read to truly understand what is going on behind the scene.
 - [**The WP template hierarchy**](https://wphierarchy.com/) --> An interactive view of the template hierarchy ([image version](https://developer.wordpress.org/files/2014/10/template-hierarchy.png)).
+- [**Theme Developer Handbook**](https://developer.wordpress.org/themes/) --> A repository of official resources to develop a WP theme.
 
 
 ## Migrate and/or sync databases
