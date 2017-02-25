@@ -4,6 +4,7 @@
  - :unlock: --> Free resource for basic features or limited duration, offering a prenium version.
  - :moneybag: --> Paid resource.
 
+
 ## Coding Standards for contributing
 - [**PHP guidelines**](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/)
 - [**HTML guidelines**](https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/)
@@ -29,6 +30,10 @@
 - [**InfiniteWP**](https://infinitewp.com/) :unlock:
 - [**ManageWP**](https://managewp.com/) :unlock:
 - [**WPRemote**](https://wpremote.com/)
+
+## Local environments
+- [**Local**](https://local.getflywheel.com) --> A lifechanger tool to setup WP locally.
+- [**WP-CLI**](http://wp-cli.org/) --> A command line interface to manage WP.
 
 
 ## Online tools
