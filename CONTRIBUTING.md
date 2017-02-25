@@ -10,6 +10,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
-- Your commit message should use the following format: `Add RESOURCE in CATEGORY`
+- Your commit message should use the following format: `Add RESOURCE to CATEGORY`
 
 Thank you for your suggestions!
